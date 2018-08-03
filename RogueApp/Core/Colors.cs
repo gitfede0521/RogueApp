@@ -15,5 +15,8 @@ namespace RogueSharpV3Tutorial.Core
       public static RLColor WallFov = Swatch.SecondaryLighter;
 
       public static RLColor TextHeading = Swatch.DbLight;
+
+      public static RLColor Player = Swatch.DbLight;
+
    }
 }
